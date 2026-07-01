@@ -106,12 +106,11 @@ I enjoy modern engineering practices around:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Activity Snapshot
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=semraj-sm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semraj-sm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</div>
+- Building scalable backend systems and cloud-native services on Azure
+- Focused on APIs, microservices, event-driven architecture, and CI/CD
+- Open to collaboration on .NET, cloud, and full-stack engineering projects
 
 ---
 
