@@ -109,12 +109,8 @@ I enjoy modern engineering practices around:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=semraj-sm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=semraj-sm&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semraj-sm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=semraj-sm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semraj-sm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
@@ -122,7 +118,7 @@ I enjoy modern engineering practices around:
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/sem-raj-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:semraj.sm@gmail.com">
